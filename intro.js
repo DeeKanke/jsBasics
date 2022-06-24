@@ -1,0 +1,1 @@
+alert('Name: Timilehin Ajayi\nHeight: 166cm\nCountry: Nigeria');
